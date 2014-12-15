@@ -9,7 +9,7 @@ projectxyz:
   company: Clientinc 
   default_rate: 60 
 
-projectxyz:
+secondproj:
   name: Second Proj  
   company: abcltd 
   default_rate: 125
